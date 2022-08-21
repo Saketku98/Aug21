@@ -5,3 +5,6 @@ Ans->  The difference between the document.onload and window.onload is:      <br
 
 Q3. What’s the fastest way to query DOM?              <br />
 Ans-> document.querySelector() is the fastest way to query DOM.          <br /><br /><br /><br />
+
+
+https://saketku98.github.io/Aug21/
